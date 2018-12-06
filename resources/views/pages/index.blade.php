@@ -16,26 +16,42 @@
                         <li data-target="#carousel-example-generic-v1" data-slide-to="0" class="circle active"></li>
                         <li data-target="#carousel-example-generic-v1" data-slide-to="1" class="circle"></li>
                         <li data-target="#carousel-example-generic-v1" data-slide-to="2" class="circle"></li>
+                        <li data-target="#carousel-example-generic-v1" data-slide-to="3" class="circle"></li>
+                        <li data-target="#carousel-example-generic-v1" data-slide-to="4" class="circle"></li>
                     </ol>
                     <div class="carousel-inner" role="listbox">
                         <div class="item active">
-                            <div class="widget-gradient" style="background-image: url(../dress_marketplace/public/storage/carousel/carousel1.jpg); background-size: 100% 100%;">
+                            <div class="widget-gradient" style="background-image: url(../project/public/storage/carousel/carousel1.jpg); background-size: 100% 100%;">
                                 <div class="widget-gradient-body">
-                                    <h3 class="widget-gradient-title">Dress Marketplace</h3>
+                                    <!-- <h3 class="widget-gradient-title">Dress Marketplace</h3> -->
                                 </div>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="widget-gradient" style="background-image: url(../dress_marketplace/public/storage/carousel/carousel2.jpg); background-size: 100% 100%;">
+                            <div class="widget-gradient" style="background-image: url(../project/public/storage/carousel/carousel2.jpg); background-size: 100% 100%;">
                                 <div class="widget-gradient-body">
-                                    <h3 class="widget-gradient-title">Dress Marketplace</h3>
+                                    <!-- <h3 class="widget-gradient-title">Dress Marketplace</h3> -->
                                 </div>
                             </div>
                         </div>
                         <div class="item">
-                            <div class="widget-gradient" style="background-image: url(../dress_marketplace/public/storage/carousel/carousel3.jpg); background-size: 100% 100%;">
+                            <div class="widget-gradient" style="background-image: url(../project/public/storage/carousel/carousel3.jpg); background-size: 100% 100%;">
                                 <div class="widget-gradient-body">
-                                    <h3 class="widget-gradient-title">Dress Marketplace</h3>
+                                    <!-- <h3 class="widget-gradient-title">Dress Marketplace</h3> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="widget-gradient" style="background-image: url(../project/public/storage/carousel/carousel4.jpg); background-size: 100% 100%;">
+                                <div class="widget-gradient-body">
+                                    <!-- <h3 class="widget-gradient-title">Dress Marketplace</h3> -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="widget-gradient" style="background-image: url(../project/public/storage/carousel/carousel5.jpg); background-size: 100% 100%;">
+                                <div class="widget-gradient-body">
+                                    <!-- <h3 class="widget-gradient-title">Dress Marketplace</h3> -->
                                 </div>
                             </div>
                         </div>

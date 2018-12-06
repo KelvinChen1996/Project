@@ -4,7 +4,7 @@
                     <!-- BEGIN LOGO -->
                     <div class="page-logo">
                         <a href="{{url('/index')}}" >
-                            <img  src="{{asset('public/layouts/layout/img/dress.png')}}" alt="logo" class="logo-default" style="width: 200px;line-height: 200px;margin-top: 8px" /></a>
+                            <img  src="{{asset('public/layouts/layout/img/logo_app.png')}}" alt="logo" class="logo-default" style="width: 100px;line-height: 200px;margin-top: 8px" /></a>
                         
                     </div>
 
