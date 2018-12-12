@@ -121,4 +121,43 @@ class AppController extends Controller
             // 'all_product' => $product_info,
             'login_info' => $login_info]);
     }
+
+     // public function search (Request $request)
+     // {
+        
+     //     try {
+     //         $jwt = $request->cookie('jwt');
+ 
+     //         $login_info = $this->get_login_info($jwt);
+     
+     //         $product_name = $request->product_name;
+     //         $client = new Client();
+     //         $search = $client->post($this->base_url.'search', [
+     //             'form_params' => [
+     //                 'product_name' => $product_name
+     //             ]
+     //         ]);
+     //         $result = json_decode($search->getBody());
+     //         $collection = collect($result->product_info);
+
+     //          $page = Input::get('page', 1);
+     //        $perPage = 16;
+
+     //         $search_result = new LengthAwarePaginator($collection->forPage($page, $perPage), $collection->count(), $perPage, $page, ['path'=>url('search')]);
+ 
+     //         return view('pages.search',
+     //            [
+     //              'login_info' => $login_info,    
+     //              'search_result' => $result,
+     //              'search' => $search_result,
+     //              'has_search' => "true"
+
+     //            ]
+     //        )->render();
+     //     }
+     //     catch (Exception $e) {
+     //         echo $e->getMessage();
+     //     }  
+          
+     // }
 }

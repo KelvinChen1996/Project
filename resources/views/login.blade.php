@@ -6,7 +6,7 @@
 
     <head>
         <meta charset="utf-8" />
-        <title>Dress Marketplace - Login Page</title>
+        <title>Semuts - Login Page</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport" />
         <meta content="Preview page of Metronic Admin Theme #1 for " name="description" />
@@ -40,7 +40,7 @@
         <link rel="shortcut icon" href="favicon.ico" /> </head>
     <!-- END HEAD -->
 
-    <body class=" login">
+    <body class="login" style="background-color: #f0f0f0;">
         <!-- BEGIN LOGO -->
 <!--
         <div class="logo">

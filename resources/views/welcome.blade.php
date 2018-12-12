@@ -94,7 +94,7 @@
                 </div>
             </div>
         </div>
-        <script src='https://www.google.com/recaptcha/api.js?render=6Lf4xH4UAAAAAHetSdNRD4NJvx1sqAWOvdFF-Cki'></script>
+      <!--   <script src='https://www.google.com/recaptcha/api.js?render=6Lf4xH4UAAAAAHetSdNRD4NJvx1sqAWOvdFF-Cki'></script>
         <script>
             grecaptcha.ready(function() {
             grecaptcha.execute('6Lf4xH4UAAAAAHetSdNRD4NJvx1sqAWOvdFF-Cki', {action: 'action_name'})
@@ -102,6 +102,6 @@
             // Verify the token on the server.
             });
             });
-        </script>
+        </script> -->
     </body>
 </html>

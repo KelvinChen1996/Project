@@ -1,7 +1,7 @@
 <html>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <head>
-        <title>Dress Marketplace</title>
+        <title>Semuts</title>
         <!-- BEGIN GLOBAL MANDATORY STYLES -->
         
         <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css" />  
@@ -64,7 +64,7 @@
             </div>
         </div>
         <div class="page-footer">
-            <div class="page-footer-inner"> 2018 &copy; DressMarketplace | <a href="{{url('/faq')}}">FAQ</a>
+            <div class="page-footer-inner"> 2018 &copy; Semuts | <a href="{{url('/faq')}}">FAQ</a>
             | <a href="{{url('/terms_of_service')}}">Terms of Service</a> 
             | <a href="{{url('/privacy_policy')}}">Privacy Policy</a>
             </div>
